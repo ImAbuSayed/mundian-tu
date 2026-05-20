@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mundian-tu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Mundian Tu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mundian-tu/) |
+| **Get License** | [Obtain a Music License for Mundian Tu](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mundian-tu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਤੇਰੀਆਂ ਅੱਖਾਂ ਚੋਂ ਪੀਂਦਾ ਹਾਂ ਮੈਂ midnight glow,
+> ਮੇਰੇ ਦਿਲ ਦੀ ਧੜਕਨ ਹੋ ਗਈ ਏ running slow,
+> ਤੇਰੇ ਇਸ਼ਕ 'ਚ ਡੁੱਬਦਾ ਹਾਂ ਮੈਂ deep inside,
+> ਮੇਰੇ ਦਿਲ ਦੀ ਤੂੰ ਬਣ ਗਈ ਏ only guide.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
