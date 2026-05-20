@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mundian Tu
+
+This log tracks the cryptographic history and versioning for the song **Mundian Tu** (mundian-tu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-21T03:09:17.988793 | `v1` | `f01e3db96b7b2b0760fe297f753ba7bf4b609368e487449b09de202741e4feb6` | `7c16ed354c054ae515236964eb8368c7ddd4e61a75c52765d1dc75d331367687` | `2026-05-21_mundian-tu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
